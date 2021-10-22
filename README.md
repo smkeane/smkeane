@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smkeane!
-- 👀 I’m interested in making Natural Language Processing (NLP) tools!
+- 👀 I love learning weird new things about language (and using NLP to do it!)
 - 🌱 I’m currently finishing my M.S. in Computational Linguistics at University of Washington, where I'm learning different data analysis and language processing techniques!
 - 📫 LinkedIn: https://www.linkedin.com/in/shannon-keane-186a61196
 
